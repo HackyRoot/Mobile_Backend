@@ -1,0 +1,3 @@
+https://medium.com/@hassanabid/creating-react-native-apps-with-django-rest-api-59e8417865e9
+
+https://hackernoon.com/django-for-react-angular-mobile-apps-part-1-9d2804555ea8
